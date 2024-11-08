@@ -1,18 +1,48 @@
-## Hi there 👋
+# Uncle Yumo - 羽沫大叔
 
-<!--
-**UncleYumo/UncleYumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://gpvc.arturio.dev/uncleyumo)
 
-Here are some ideas to get you started:
+## 关于我
 
-![](https://github-readme-stats.vercel.app/api?username=UncleYumoe&show_icons=true&theme=transparent)
+你好！我是羽沫大叔，一位来自中国苏州的软件工程师。我在软件工程领域有着深厚的知识背景，专注于Java（Kotlin）前后端全栈开发，并对Python深度学习有浓厚的兴趣。除了编程，我还热爱吉他演奏，探索大语言模型和Transformer架构。我的业余时间通常用来看电影和研究最新的AI技术。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 技能与专长
+
+- **编程语言和技术**
+  - Java (Kotlin)
+  - Python
+  - 前后端全栈开发
+  - 深度学习
+- **兴趣领域**
+  - 吉他演奏
+  - 大语言模型
+  - Transformer架构
+
+## 项目经验
+
+- **项目名称**：待添加
+  - **描述**：待添加
+  - **角色**：独立开发
+
+## 成就与荣誉
+
+- 目前暂无具体奖项或荣誉，但我在多个项目中的表现得到了广泛的认可。
+
+## 个人爱好
+
+- 电影
+- AI技术
+
+## 联系方式
+
+- 📧 邮箱：[uncleyumo@163.com](mailto:uncleyumo@163.com)
+- 🌐 网站：[uncleyumo.cn](http://uncleyumo.cn)
+
+## 其他
+
+- **职业目标**：待添加
+- **未来规划**：待添加
+
+---
+
+感谢您访问我的GitHub主页！如果您对我的项目或技术有任何疑问，欢迎通过邮箱或网站联系我。期待与您交流！

@@ -30,7 +30,7 @@
   - **描述**：print-plus-kotlin (轻量级格式化输出与日志打印工具)
     - **角色**：独立开发
     - **演示地址**：[filehub.uncleyumo.cn](http://filehub.uncleyumo.cn)
-    **项目仓库**：[print-plus-kotlin](https://github.com/UncleYumo/print-plus-kotlin)
+    - **项目仓库**：[print-plus-kotlin](https://github.com/UncleYumo/print-plus-kotlin)
 
   - **描述**：Yumo-News (羽沫大事件)
     - **备注**：该项目巨Low无比，心理承受能力较弱的朋友谨慎浏览

@@ -35,7 +35,7 @@
   - **描述**：Yumo-News (羽沫大事件)
     - **备注**：该项目巨Low无比，心理承受能力较弱的朋友谨慎浏览
     - **角色**：独立开发
-    - **演示地址**：[Yumo-News](https://news.uncleyumo.cn)
+    - **演示地址**：[news.uncleyumo.cn](https://news.uncleyumo.cn)
     - **项目仓库**：[Yumo-News](https://github.com/UncleYumo/springboot-vue3-pros/tree/main/heimacase-bigevent)
  
 ## 成就与荣誉

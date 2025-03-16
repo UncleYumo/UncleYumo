@@ -37,6 +37,12 @@
     - **角色**：独立开发
     - **演示地址**：[news.uncleyumo.cn](https://news.uncleyumo.cn)
     - **项目仓库**：[Yumo-News](https://github.com/UncleYumo/springboot-vue3-pros/tree/main/heimacase-bigevent)
+  
+  - **描述**：TalkSpace-Studio (言境工坊)
+    - **备注**：开发中
+    - **角色**：独立开发
+    - **演示地址**：[暂无（开发中）](https://github.com/UncleYumo)
+    - **项目仓库**：[TalkSpace_Studio](https://github.com/UncleYumo/TalkSpace-Studio)
  
 ## 成就与荣誉
 

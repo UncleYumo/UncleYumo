@@ -41,7 +41,7 @@
   - **描述**：TalkSpace-Studio (言境工坊)
     - **备注**：维护中
     - **角色**：独立开发
-    - **演示地址**：[TalkSpace-Studio](http://talkspace.akise.cn)
+    - **演示地址**：[http://talkspace.akise.cn](http://talkspace.akise.cn)
     - **项目仓库**：[TalkSpace_Studio](https://github.com/UncleYumo/TalkSpace-Studio)
  
 ## 成就与荣誉

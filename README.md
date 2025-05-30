@@ -24,7 +24,7 @@
 - **主要开源项目名称**：
   - **描述**：Yumo-Filehub (羽沫文件中转站)
     - **角色**：独立开发
-    - **演示地址**：[filehub.uncleyumo.cn](http://filehub.uncleyumo.cn)
+    - **演示地址**：[filehub.uncleyumo.cn（答辩结束，官网不再维护）](http://filehub.uncleyumo.cn)
     - **项目仓库**：[Yumo-Filehub](https://github.com/UncleYumo/Yumo-Filehub)
  
   - **描述**：print-plus-kotlin (轻量级格式化输出与日志打印工具)
@@ -35,7 +35,7 @@
   - **描述**：Yumo-News (羽沫大事件)
     - **备注**：该项目巨Low无比，心理承受能力较弱的朋友谨慎浏览
     - **角色**：独立开发
-    - **演示地址**：[news.uncleyumo.cn](https://news.uncleyumo.cn)
+    - **演示地址**：[news.uncleyumo.cn（答辩结束，官网不再维护）](https://news.uncleyumo.cn)
     - **项目仓库**：[Yumo-News](https://github.com/UncleYumo/springboot-vue3-pros/tree/main/heimacase-bigevent)
   
   - **描述**：TalkSpace-Studio (言境工坊)
@@ -43,6 +43,12 @@
     - **角色**：独立开发
     - **演示地址**：[http://talkspace.akise.cn](http://talkspace.akise.cn)
     - **项目仓库**：[TalkSpace_Studio](https://github.com/UncleYumo/TalkSpace-Studio)
+   
+  - **描述**：Interview-Nebula (智面星云)
+    - **备注**：开发中（比赛保密要求，暂不开源）
+    - **角色**：独立开发
+    - **演示地址**：[https://interview-nebula.uncleyumo.cn](https://interview-nebula.uncleyumo.cn)
+    - **项目仓库**：[Interview-Nebula](https://github.com/UncleYumo/Interview-Nebula)
  
 ## 成就与荣誉
 
